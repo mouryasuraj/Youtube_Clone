@@ -126,7 +126,9 @@ nav {
     width: fit-content;
     flex-wrap: wrap;
 }
-
+.subscribe-none{
+    display: none;
+}
 .subscribe-list a img {
     width: 25px;
     border-radius: 50%;
